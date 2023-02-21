@@ -1,1 +1,1 @@
-# ai-labs
+# AI labs
