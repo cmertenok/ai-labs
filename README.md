@@ -1,1 +1,1 @@
-# AI labs
+# Artificial intelligence in image processing tasks
