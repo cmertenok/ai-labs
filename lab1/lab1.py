@@ -7,7 +7,7 @@ img = cv2.imread('photo.jpg', 1);
 #Відображення у вікні
 cv2.imshow('Input img', img)
 
-#Вирізання частини зображення
+#Вирізання частини зображення 
 roi = img[60:160, 250:400]
 cv2.imshow('Input img', roi)
 
